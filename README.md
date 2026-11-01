@@ -29,10 +29,10 @@ B.Tech IT student who likes building things end to end: a React or Next.js front
 | Project | What it is | Stack |
 |---|---|---|
 | [**Black Onyx**](https://github.com/devesh1905/black-onyx) | A firewall for tool-using AI agents. Untrusted tool output can be read as data but can never choose a destination or action, and a readable policy checks every tool argument when it is used. | Python, local advisory model |
-| [**CodeGuard**](https://github.com/devesh1905/CodeGaurd) | BUILDFEST '26 2nd-prize entry: code security review tooling. | TypeScript |
-| [**EtherWave**](https://github.com/devesh1905/project-etherwave) | Interactive audio and visual experience built for the web. | HTML, JS |
+| [**CodeGuard**](https://github.com/devesh1905/CodeGaurd) | BUILDFEST '26 2nd-prize entry. Paste code or point it at a repo; it finds vulnerabilities, explains the risk and proposes a refactor as a diff. | TypeScript |
+| [**EtherWave**](https://github.com/devesh1905/project-etherwave) | Open-source desktop app that captures system audio over loopback and streams it to other devices on the local network, fixing high-latency wireless audio. | Desktop, HTML |
 | [**Liv2care**](https://github.com/devesh1905/liv2care-prototype) | Clickable prototype of a liver-care pathway platform for type 2 diabetes (Health-a-thon 2026). | HTML, TypeScript |
-| [**Fotocode**](https://github.com/devesh1905/fotocode.) | Demo site for the Capture & Code competition at REC. | Web |
+| [**Fotocode**](https://github.com/devesh1905/fotocode.) | Landing page built under competition limits for Capture & Code at REC (1st place). | Web |
 
 More on the [portfolio site](https://portfolio-01-opal.vercel.app).
 
