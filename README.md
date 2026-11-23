@@ -1,7 +1,7 @@
-<a href="https://portfolio-01-opal.vercel.app"><img src="assets/header.svg" width="100%" alt="Deveshwar S, full-stack and AI developer. I build agents, then make them safe to run."/></a>
+<a href="https://deveshwarsportfolio.vercel.app"><img src="assets/header.svg" width="100%" alt="Deveshwar S, full-stack and AI developer. I build agents, then make them safe to run."/></a>
 
 <p align="center">
-  <a href="https://portfolio-01-opal.vercel.app">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/deveshwar-s-19a67b362">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:deveshwars1905@gmail.com">deveshwars1905@gmail.com</a>
+  <a href="https://deveshwarsportfolio.vercel.app">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/deveshwar-s-19a67b362">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:deveshwars1905@gmail.com">deveshwars1905@gmail.com</a>
 </p>
 
 <br/>
